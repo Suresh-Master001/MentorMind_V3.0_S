@@ -83,7 +83,7 @@ const Register = () => {
           <Logo />
           <div className="mt-4 inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-purple-100/80 dark:bg-purple-900/30 border border-purple-200/50 dark:border-purple-800 text-purple-700 dark:text-purple-300 text-xs font-medium">
             <Sparkles className="w-3.5 h-3.5" />
-            Join MentorMind today — it's free!
+            Join MentorMind today - it's free!
           </div>
         </div>
 

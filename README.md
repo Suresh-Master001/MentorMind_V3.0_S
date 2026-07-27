@@ -13,7 +13,7 @@
 
 ## 📋 Overview
 
-MentorMind 3.0 is a cutting-edge project management platform powered by Google Gemini AI. It automatically generates, assigns, and tracks tasks — transforming how teams collaborate and deliver projects. Built with a modern MERN stack (MongoDB, Express, React, Node.js) and real-time capabilities via Socket.io.
+MentorMind 3.0 is a cutting-edge project management platform powered by Google Gemini AI. It automatically generates, assigns, and tracks tasks - transforming how teams collaborate and deliver projects. Built with a modern MERN stack (MongoDB, Express, React, Node.js) and real-time capabilities via Socket.io.
 
 **Developed & Maintained by [CodeNxte Web & Software Solutions](https://codenxte.com)**
 
@@ -22,15 +22,15 @@ MentorMind 3.0 is a cutting-edge project management platform powered by Google G
 ## ✨ Key Features
 
 ### 🤖 AI-Powered Capabilities
-- **Smart Task Generation** — Describe your project once and get 6-12 detailed technical tasks with estimates, skills, and priorities
-- **Intelligent Auto-Assignment** — Gemini AI scores team members across skill match (40%), time capacity (25%), workload (20%), and availability (15%)
-- **Automated Delay Detection** — Cron-based monitoring sends alerts for overdue tasks
+- **Smart Task Generation** - Describe your project once and get 6-12 detailed technical tasks with estimates, skills, and priorities
+- **Intelligent Auto-Assignment** - Gemini AI scores team members across skill match (40%), time capacity (25%), workload (20%), and availability (15%)
+- **Automated Delay Detection** - Cron-based monitoring sends alerts for overdue tasks
 
 ### 📊 Project Management
-- **Role-Based Access** — Admin, Team Lead, and Member roles with tailored permissions
-- **Real-Time Notifications** — Socket.io-powered instant updates for assignments, completions, and delays
-- **Advanced Analytics** — Interactive dashboards with performance metrics, trend analysis, and team reports
-- **Work Log Tracking** — Time tracking and progress monitoring per task
+- **Role-Based Access** - Admin, Team Lead, and Member roles with tailored permissions
+- **Real-Time Notifications** - Socket.io-powered instant updates for assignments, completions, and delays
+- **Advanced Analytics** - Interactive dashboards with performance metrics, trend analysis, and team reports
+- **Work Log Tracking** - Time tracking and progress monitoring per task
 
 ### 🔒 Enterprise-Grade Security
 - JWT-based authentication with bcrypt password hashing
@@ -99,11 +99,11 @@ VITE_API_URL=http://localhost:5000/api
 
 #### 4. Run the Application
 ```bash
-# Terminal 1 — Server
+# Terminal 1 - Server
 cd Server
 npm run dev
 
-# Terminal 2 — Client
+# Terminal 2 - Client
 cd Client
 npm run dev
 ```
@@ -156,7 +156,7 @@ MentorMind_V3.0/
 
 | Role | Capabilities |
 |------|-------------|
-| **Admin** | Full access — manage org, projects, users, reports |
+| **Admin** | Full access - manage org, projects, users, reports |
 | **Team Lead** | Create/manage projects & tasks, view analytics |
 | **Member** | View assigned tasks, execute work, self-assign |
 
@@ -197,13 +197,13 @@ We welcome contributions! Please follow these steps:
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 🏢 About CodeNxte
 
-**MentorMind 3.0** is proudly developed and maintained by **[CodeNxte Web & Software Solutions](https://codenxte.com)** — a full-stack web and software development company specializing in AI-powered applications, real-time systems, and modern web solutions.
+**MentorMind 3.0** is proudly developed and maintained by **[CodeNxte Web & Software Solutions](https://codenxte.com)** - a full-stack web and software development company specializing in AI-powered applications, real-time systems, and modern web solutions.
 
 - 🌐 Website: [codenxte.com](https://codenxte.com)
 - 💼 Custom software development
