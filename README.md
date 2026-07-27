@@ -1,7 +1,7 @@
 # 🧠 MentorMind 3.0
 
 > **AI-Powered Project Management Platform**  
-> A product of [CodeNxte Web & Software Solutions](https://codenxte.com)
+> Powered by [CodeNxte Web & Software Solutions](https://codenxte.com)
 
 [![Version](https://img.shields.io/badge/version-3.0-purple)](https://github.com/Suresh-Master001/MentorMind_V3.0)
 [![Node](https://img.shields.io/badge/node-%3E%3D18-green)](https://nodejs.org)
@@ -15,7 +15,7 @@
 
 MentorMind 3.0 is a cutting-edge project management platform powered by Google Gemini AI. It automatically generates, assigns, and tracks tasks - transforming how teams collaborate and deliver projects. Built with a modern MERN stack (MongoDB, Express, React, Node.js) and real-time capabilities via Socket.io.
 
-**Developed & Maintained by [CodeNxte Web & Software Solutions](https://codenxte.com)**
+**Powered by [CodeNxte Web & Software Solutions](https://codenxte.com)**
 
 ---
 
@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏢 About CodeNxte
 
-**MentorMind 3.0** is proudly developed and maintained by **[CodeNxte Web & Software Solutions](https://codenxte.com)** - a full-stack web and software development company specializing in AI-powered applications, real-time systems, and modern web solutions.
+**MentorMind 3.0** is powered by **[CodeNxte Web & Software Solutions](https://codenxte.com)** - a full-stack web and software development company specializing in AI-powered applications, real-time systems and modern web solutions.
 
 - 🌐 Website: [codenxte.com](https://codenxte.com)
 - 💼 Custom software development
@@ -213,5 +213,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://codenxte.com">CodeNxte Web & Software Solutions</a>
+  Powered by <a href="https://codenxte.com">CodeNxte Web & Software Solutions</a>
 </p>

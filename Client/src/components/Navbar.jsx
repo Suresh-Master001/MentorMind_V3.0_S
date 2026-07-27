@@ -18,7 +18,7 @@ const Logo = () => (
         MentorMind 3.0
       </span>
       <span className="text-[10px] text-gray-400 dark:text-gray-500 tracking-wide block leading-tight">
-        by <a href="https://codenxte.com" target="_blank" rel="noopener noreferrer" className="text-purple-500 dark:text-purple-400 hover:underline">CodeNxte</a>
+        Powered by <a href="https://codenxte.com" target="_blank" rel="noopener noreferrer" className="text-purple-500 dark:text-purple-400 hover:underline">CodeNxte Web & Software Solutions</a>
       </span>
     </div>
   </div>
