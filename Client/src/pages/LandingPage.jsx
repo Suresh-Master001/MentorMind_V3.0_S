@@ -975,9 +975,9 @@ export default function LandingPage() {
           </div>
 
           <div className="border-t border-gray-100 dark:border-gray-800 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
-            <p className="text-sm text-gray-500 dark:text-gray-400">
-              &copy; {new Date().getFullYear()} MentorMind. All rights reserved.
-            </p>
+              <p className="text-sm text-gray-500 dark:text-gray-400">
+                &copy; {new Date().getFullYear()} MentorMind. All rights reserved. A product of <a href="https://codenxte.com" target="_blank" rel="noopener noreferrer" className="text-purple-600 dark:text-purple-400 hover:underline">CodeNxte Web & Software Solutions</a>.
+              </p>
             <div className="flex items-center gap-6">
               <a
                 href="#"
