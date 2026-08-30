@@ -88,7 +88,7 @@ export default {
         },
       },
       fontFamily: {
-        sans: ['Cavolini', 'Inter', 'ui-sans-serif', 'system-ui'],
+        sans: ['Merienda', 'Inter', 'ui-sans-serif', 'system-ui'],
       },
       boxShadow: {
         'glow': '0 0 20px rgba(59, 130, 246, 0.5)',

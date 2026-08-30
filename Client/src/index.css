@@ -6,47 +6,26 @@
 }
 
 /* ==================== GLOBAL FONT ==================== */
-/* 
-   CAVOLINI FONT SETUP:
-   To enable Cavolini font, place these font files in Client/public/fonts/:
-   - Cavolini.woff2 (regular)
-   - Cavolini-Bold.woff2 (bold)
-   - Cavolini-ExtraBold.woff2 (extra bold)
-   - Cavolini-Black.woff2 (black)
+/*
+   MERIENDA FONT SETUP:
+   Merienda is a Google Font loaded via the <link> tag in Client/index.html:
+     <link href="https://fonts.googleapis.com/css2?family=Merienda:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-   Then uncomment the @font-face blocks below.
-   
-   @font-face {
-       font-family: 'Cavolini';
-       src: url('/fonts/Cavolini.woff2') format('woff2');
-       font-weight: 400;
-       font-display: swap;
-   }
-   
-   @font-face {
-       font-family: 'Cavolini';
-       src: url('/fonts/Cavolini-Bold.woff2') format('woff2');
-       font-weight: 700;
-       font-display: swap;
-   }
-   
-   @font-face {
-       font-family: 'Cavolini';
-       src: url('/fonts/Cavolini-ExtraBold.woff2') format('woff2');
-       font-weight: 800;
-       font-display: swap;
-   }
-   
-   @font-face {
-       font-family: 'Cavolini';
-       src: url('/fonts/Cavolini-Black.woff2') format('woff2');
-       font-weight: 900;
-       font-display: swap;
-   }
+   It is configured as the primary "sans" font in tailwind.config.js:
+     fontFamily: { sans: ['Merienda', 'Inter', 'ui-sans-serif', 'system-ui'] }
+
+   No local @font-face or woff2 files are required.
 */
+
+@theme {
+	--font-sans: 'Merienda', 'Inter', ui-sans-serif, system-ui;
+}
+
+/* Apply the Merienda font to the entire project globally */
 
 /* Make all text slightly bolder globally */
 body {
+	@apply font-sans;
 	font-weight: 500;
 }
 

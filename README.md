@@ -1,7 +1,6 @@
 # 🧠 MentorMind 3.0
 
-> **AI-Powered Project Management Platform**  
-> Powered by [CodeNxte Web & Software Solutions](https://codenxte.com)
+> **AI-Powered Project Management Platform**
 
 [![Version](https://img.shields.io/badge/version-3.0-purple)](https://github.com/Suresh-Master001/MentorMind_V3.0)
 [![Node](https://img.shields.io/badge/node-%3E%3D18-green)](https://nodejs.org)
@@ -14,8 +13,6 @@
 ## 📋 Overview
 
 MentorMind 3.0 is a cutting-edge project management platform powered by Google Gemini AI. It automatically generates, assigns, and tracks tasks - transforming how teams collaborate and deliver projects. Built with a modern MERN stack (MongoDB, Express, React, Node.js) and real-time capabilities via Socket.io.
-
-**Powered by [CodeNxte Web & Software Solutions](https://codenxte.com)**
 
 ---
 
@@ -201,17 +198,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🏢 About CodeNxte
+## 🏢 About MentorMind
 
-**MentorMind 3.0** is powered by **[CodeNxte Web & Software Solutions](https://codenxte.com)** - a full-stack web and software development company specializing in AI-powered applications, real-time systems and modern web solutions.
+**MentorMind 3.0** is an AI-powered project management platform designed to help teams plan, assign, and deliver work faster — from intelligent task generation to real-time collaboration.
 
-- 🌐 Website: [codenxte.com](https://codenxte.com)
-- 💼 Custom software development
-- 🤖 AI/ML integration
-- 🚀 Scalable web applications
+- 🌐 Website: [mentormind.com](https://mentormind.com)
+- 🔄 Smart task generation & auto-assignment
+- 📊 Real-time collaboration & notifications
+- 🔒 Advanced analytics & reporting
+- 🔐 Role-based access control & security
 
 ---
 
 <p align="center">
-  Powered by <a href="https://codenxte.com">CodeNxte Web & Software Solutions</a>
+  Made with ❤️ by the <a href="https://mentormind.com">MentorMind</a> team
 </p>
